@@ -5,6 +5,7 @@ Debug repo to highlight issues when trying to import local librairies
 ## Clone repo
 ```bash
 git clone https://github.com/laguill/marimo_import.git
+cd marimo_import
 ```
 
 ## Sync uv
